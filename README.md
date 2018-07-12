@@ -1,1 +1,3 @@
-# pandakun-icon
+# pandakun
+
+pandakunのSVGファイルです。
